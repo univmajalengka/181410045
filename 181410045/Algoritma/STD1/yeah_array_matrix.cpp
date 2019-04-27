@@ -1,4 +1,3 @@
-//tes_doang
 #include <iostream>
 /* definisikan awalan sebagai namespace standar */
 #define awalan using namespace std
