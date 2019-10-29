@@ -1,8 +1,8 @@
 # 181410045
 Courses
-Struktur Data 1
+Struktur Data 2
 Aula Nur Rizal Ardiyantoro
-Informatika 2C
+Informatika 3C
 
 # Document Root
   - 181410045
