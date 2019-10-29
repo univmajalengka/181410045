@@ -8,3 +8,4 @@ Informatika 3C
   - 181410045
     - Algoritma
       - STD1
+      - STD2
