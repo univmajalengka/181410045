@@ -9,3 +9,4 @@ Informatika 3C
     - Algoritma
       - STD1
       - STD2
+      - STD3
