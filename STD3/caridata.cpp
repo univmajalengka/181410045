@@ -14,9 +14,15 @@ int main()
 	int i, x, ketemu;
 
 	int data[] = {5, 100, 20, 31, 77, 88, 99, 20, 55, 1};
+	int jumdata = sizeof(data) / sizeof(int);
 
-	cout<<"isi Data: 5, 100, 20, 31, 77, 88, 99, 20, 55, 1\n";
-	cout<<"Data yang anda cari: "; cin>>x;
+	cout<<"Data semula: "<<endl;
+		for(i = 0; i < jumdata; i++)
+		{
+			cout<<setw(4)<<data[i];
+			//cout<<endl;
+		}
+	cout<<"\nData yang anda cari: "; cin>>x;
 
 	ketemu = 0;
 
