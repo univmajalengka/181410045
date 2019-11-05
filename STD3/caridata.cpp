@@ -20,7 +20,6 @@ int main()
 		for(i = 0; i < jumdata; i++)
 		{
 			cout<<setw(4)<<data[i];
-			//cout<<endl;
 		}
 	cout<<"\nData yang anda cari: "; cin>>x;
 
