@@ -1,8 +1,8 @@
 # 181410045
 Courses
-Struktur Data 2
+Sistem Basis Data Lanjut
 Aula Nur Rizal Ardiyantoro
-Informatika 3C
+Informatika 4B
 
 # Document Root
   - 181410045
@@ -10,3 +10,5 @@ Informatika 3C
       - STD1
       - STD2
       - STD3
+    - Sistem Basis Data Lanjut
+      - Tugas 1
