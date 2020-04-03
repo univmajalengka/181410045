@@ -15,5 +15,5 @@
 now you can open Desa.exe
 > if you wanna build yourself
 
-- Open Desa.vbproj
+- Open Desa.sln
 - Click Start (or F5)
