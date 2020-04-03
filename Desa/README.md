@@ -1,13 +1,19 @@
-IMPORTANT! YOU MUST FOLLOW THIS STEP IF YOU WANNA WORKING PROPERLY!
+## IMPORTANT! YOU MUST FOLLOW THIS STEP IF YOU WANNA WORKING PROPERLY!
 
-- Tools:
-  - ODBC
-  - MYSqlDriver 5.1
-  - Microsoft Visual Studio 2019 (2015 Mininal)
-  - Coffee
-  - Snack
+# Tools:
+    1. MYSQL ODBC Driver 5.1
+    2. ODBC
+    3. Microsoft Visual Studio 2019 (2015 Minimal)
 
-- Instructions:
-  1. Go to ODBC (32bit or 64bit whatever) and click Add
-  2. Choose MySql Driver 5.1
-  3. name it like this https://i.imgur.com/93yc3e5.png
+# Instructions:
+**Connecting to database**
+     - Download MYSQL ODBC Driver 5.1 [here](https://dev.mysql.com/downloads/connector/odbc/) and install it.
+     - Open ODBC Driver -> Click Add -> Choose MYSQL ODBC Driver 5.1 and set ordered like this:
+    ![Image](https://i.imgur.com/93yc3e5.png)
+    
+     - Click Save
+     now you can open Desa.exe
+> if you wanna build yourself
+
+- Open Desa.vbproj
+- Click Start (or F5)
