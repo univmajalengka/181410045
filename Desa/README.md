@@ -1,1 +1,6 @@
-IMPORTANT!
+IMPORTANT! YOU MUST FOLLOW THIS STEP IF YOU WANNA WORKING PROPERLY!
+
+- Tools:
+  - ODBC
+  - MYSqlDriver 5.1
+  - Microsoft Visual Studio 2019 (2015 Mininal)
