@@ -7,7 +7,7 @@
     End Sub
 
     Private Sub ThisSourceCodeCanBeSeenAtHereToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ThisSourceCodeCanBeSeenAtHereToolStripMenuItem.Click
-        Process.Start("https://github.com/univmajalengka/181410045")
+        Process.Start("https://github.com/univmajalengka/181410045/tree/master/Desa")
     End Sub
 
     Private Sub BeritaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles BeritaToolStripMenuItem.Click
