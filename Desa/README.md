@@ -7,13 +7,12 @@
 
 # Instructions:
 **Connecting to database**
-     - Download MYSQL ODBC Driver 5.1 [here](https://dev.mysql.com/downloads/connector/odbc/) and install it.
-     - Open ODBC Driver -> Click Add -> Choose MYSQL ODBC Driver 5.1 and set ordered like this:
-     
-![Image](https://i.imgur.com/93yc3e5.png)
+1. Download MYSQL ODBC Driver 5.1 [here](https://dev.mysql.com/downloads/connector/odbc/) and install it.
+2. Open ODBC Driver -> Click Add -> Choose MYSQL ODBC Driver 5.1 and set ordered like this:
+     ![Image](https://i.imgur.com/93yc3e5.png)
     
-     - Click Save
-     now you can open Desa.exe
+3. Click Save
+now you can open Desa.exe
 > if you wanna build yourself
 
 - Open Desa.vbproj
